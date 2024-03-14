@@ -1,0 +1,19 @@
+{
+  "name": "projeto_base",
+  "version": "1.0.0",
+  "description": "projeto base",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "http"
+  ],
+  "author": "Hesron Becker",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
